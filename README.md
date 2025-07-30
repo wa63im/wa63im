@@ -1,10 +1,10 @@
 ### Hi there I'm wa63im <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I opensource stuff and break things so yeah
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Lua 
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my project GalileoBot
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python 
+- 👨‍💻 &nbsp;Read more about my project R8it Bot at r8it.info
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
