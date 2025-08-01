@@ -51,7 +51,7 @@ It’s **fast**, **lightweight**, and **runs as if it’s part of your server**,
   <a href="https://twitter.com/sam_elwassim" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" />
   </a>
-  <a href="https://instagram.com/_ljn.7" target="_blank">
+  <a href="[https://instagram.com/_ljn.7](https://www.instagram.com/_wa63im_?igsh=MTR0dmRlcDh6Y3M1aA==)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
   </a>
 </p>
