@@ -16,6 +16,11 @@
 
 ---
 
+### Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-1/357504040684486667.png)
+
+---
+
 ### 🤖 What is R8IT?
 
 R8IT is a next-gen giveaway system tailored for modern Discord servers.  
