@@ -61,8 +61,4 @@ It’s **fast**, **lightweight**, and **runs as if it’s part of your server**,
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/wa63im/count.svg" />
-</p>
