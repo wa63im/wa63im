@@ -17,7 +17,7 @@
 ---
 
 ### Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-1/357504040684486667.png)
+![Discord](https://discord.c99.nl/widget/theme-3/357504040684486667.png)
 
 ---
 
