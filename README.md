@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <strong>wa63im</strong> 👋</h1>
 
-![Banner]([https://media.discordapp.net/attachments/1141513377269678240/1405592259704913920/wa63im.png?ex=689f634d&is=689e11cd&hm=35c8dbfca38e6ceba8a10be0f3212cebc53ad4223fa5f255e273d8b93a0d6546&=&format=webp&quality=lossless&width=662&height=662](https://cdn.discordapp.com/attachments/1141513377269678240/1405592630536179863/Untitled_design.png?ex=689f63a5&is=689e1225&hm=b2eda3525cb0570e9dcf73a8755e12613426291cb62da41b2ec656b24f3fd5c8&))
+![Banner](https://cdn.discordapp.com/attachments/1141513377269678240/1405592630536179863/Untitled_design.png?ex=689f63a5&is=689e1225&hm=b2eda3525cb0570e9dcf73a8755e12613426291cb62da41b2ec656b24f3fd5c8&)
 
 <p align="center">
   <i>Full-stack developer, bot builder, and digital tinkerer.</i><br>
