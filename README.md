@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm <strong>wa63im</strong> 👋</h1>
 
+![Banner](https://media.discordapp.net/attachments/1141513377269678240/1405592259704913920/wa63im.png?ex=689f634d&is=689e11cd&hm=35c8dbfca38e6ceba8a10be0f3212cebc53ad4223fa5f255e273d8b93a0d6546&=&format=webp&quality=lossless&width=662&height=662)
+
 <p align="center">
   <i>Full-stack developer, bot builder, and digital tinkerer.</i><br>
   <a href="https://r8it.info">🌐 R8IT Project</a> • <a href="https://discord.gg/YOUR_SUPPORT_SERVER">💬 Support Server</a>
