@@ -1,5 +1,5 @@
 
-![Banner](https://cdn.discordapp.com/attachments/1141513377269678240/1405593066760568884/Untitled_design_1.png?ex=689f640d&is=689e128d&hm=a5ea1e5a6a9884fa84ec49a996bf122afe72a23d308b51e472cec256de6b7e6b&)
+![Banner](https://cdn.discordapp.com/attachments/1141513377269678240/1405595795725615257/Your_paragraph_text_4.png?ex=689f6698&is=689e1518&hm=5b8ef18a6bfea88691792290a7fc26c67f1f33c1bc08fd300c8f10e315161346&)
 
 <p align="center">
   <i>Full-stack developer, bot builder, and digital tinkerer.</i><br>
