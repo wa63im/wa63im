@@ -35,7 +35,7 @@ It’s **fast**, **lightweight**, and **runs as if it’s part of your server**,
 ✅ Advanced drop mode  
 ✅ Logging system
 
-🔗 Try it now: [**r8it.info**](https://r8it.info)
+🔗 Try it now: [**r8it.info**](https://www.r8it.info/)
 
 ---
 
