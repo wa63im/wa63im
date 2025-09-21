@@ -3,7 +3,7 @@
 
 <p align="center">
   <i>Full-stack developer, bot builder, and digital tinkerer.</i><br>
-  <a href="https://r8it.info">🌐 R8IT Project</a> • <a href="https://discord.gg/YOUR_SUPPORT_SERVER">💬 Support Server</a>
+  <a href="https://r8it.info">🌐 R8IT Project</a> • <a href="https://discord.gg/FZ6pdWDF7t">💬 Support Server</a>
 </p>
 
 ---
